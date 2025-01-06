@@ -1,13 +1,10 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        
-        if len(nums) == 0:
-            return []
-        dictionary = {}
-        for i, num in enumerate(nums):
-            if target - num in dictionary:
-                return [dictionary[target-num], i]
-            dictionary[num] = i
-        return []
-       
-        
+    def twoSum(self, nums:list[int], target:[list])-> list[int]:
+        numsMap={}
+        n=len(nums)
+        for i in range(n):
+            complement = target - nums[i]
+            if complement in numsMap:
+                return [numsMap[complement],i]
+            numsMap[nums[i]]=i
+        return[]   
