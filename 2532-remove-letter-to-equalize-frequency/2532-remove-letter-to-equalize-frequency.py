@@ -14,3 +14,6 @@ class Solution(object):
 
             counter[c] += 1
         return False
+
+        
+        
