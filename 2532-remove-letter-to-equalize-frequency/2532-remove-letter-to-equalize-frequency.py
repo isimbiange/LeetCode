@@ -2,18 +2,16 @@ from collections import Counter
 
 class Solution(object):
     def equalFrequency(self, word):
-        counter = Counter(word)
-        for c in word:
-            counter[c] -= 1
-            
-            if counter[c] == 0:
-                del counter[c]
-            
-            if len(set(counter.values())) == 1:
+        freq = Counter(word)
+        for char in word:
+            freq[char] -= 1
+            if freq[char]==0:
+                freq.pop(char)
+
+            if len(set(freq.values()))==1:
                 return True
+            freq[char] +=1
 
-            counter[c] += 1
         return False
-
-        
-        
+            
+            
