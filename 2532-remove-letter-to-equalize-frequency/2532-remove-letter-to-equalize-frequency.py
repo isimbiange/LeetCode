@@ -1,5 +1,3 @@
-from collections import Counter
-
 class Solution(object):
     def equalFrequency(self, word):
         freq = Counter(word)
@@ -13,5 +11,4 @@ class Solution(object):
             freq[char] +=1
 
         return False
-            
-            
+        
