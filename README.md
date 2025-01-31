@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/isimbiange/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/isimbiange/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/isimbiange/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/isimbiange/LeetCode/tree/master/0344-reverse-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/isimbiange/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/isimbiange/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/isimbiange/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/isimbiange/LeetCode/tree/master/0013-roman-to-integer) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/isimbiange/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Two Pointers
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/isimbiange/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/isimbiange/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/isimbiange/LeetCode/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
