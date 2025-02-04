@@ -1,5 +1,5 @@
 class Solution:
-    def plusOne(self, digits):
+    def plusOne(self, digits): # self helps modify variables of specific objects in python
         n = len(digits)
         
         # Start from the last digit
