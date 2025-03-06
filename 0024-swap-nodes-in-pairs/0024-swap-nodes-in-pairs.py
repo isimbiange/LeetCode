@@ -6,22 +6,31 @@
 class Solution:
     def swapPairs(self, head: Optional[ListNode]) -> Optional[ListNode]:
 
-        dummy = ListNode(0)
-        dummy.next = head
-        prev = dummy
+        dummy = ListNode(0, head)
+        prev, curr = dummy, head 
 
-        while head and head.next:
-            first = head
-            second = head.next
+        while curr and curr.next: #while there is the next node 
+            nextPair = curr.next.next  # store the next node after a air of nodes
+            second = curr.next    #the second node position will be replaced by the first node 
+            
 
-            prev.next = second
-            first.next = second.next
-            second.next = first
+            #swap
 
-            prev = first
-            head = first.next
+            second.next = curr  #the second node will  be equal to the first node 
+            curr.next = nextPair  # current start/head node== the second node
+            prev.next = second  #the current/first node will be == second nod 
+            
+            
 
-        return dummy.next
+
+            #initialize
+
+            prev = curr  #previous means the current node 
+            curr = nextPair  #current node will be equal to the next pair 
+
+        return dummy.next  #print out the new linkNode
+
+
 
 
         
