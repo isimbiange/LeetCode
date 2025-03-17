@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/isimbiange/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/isimbiange/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/isimbiange/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/isimbiange/LeetCode/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,16 +84,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/isimbiange/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/isimbiange/LeetCode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/isimbiange/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/isimbiange/LeetCode/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/isimbiange/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/isimbiange/LeetCode/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/isimbiange/LeetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/isimbiange/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
