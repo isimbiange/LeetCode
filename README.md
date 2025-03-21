@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/isimbiange/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/isimbiange/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/isimbiange/LeetCode/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/isimbiange/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/isimbiange/LeetCode/tree/master/0344-reverse-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/isimbiange/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Array
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/isimbiange/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/isimbiange/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/isimbiange/LeetCode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/isimbiange/LeetCode/tree/master/0242-valid-anagram) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/isimbiange/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Two Pointers
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/isimbiange/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/isimbiange/LeetCode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
