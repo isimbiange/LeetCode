@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/isimbiange/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/isimbiange/LeetCode/tree/master/0200-number-of-islands) |
 | [0792-binary-search](https://github.com/isimbiange/LeetCode/tree/master/0792-binary-search) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/isimbiange/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/isimbiange/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/isimbiange/LeetCode/tree/master/0242-valid-anagram) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/isimbiange/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Linked List
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/isimbiange/LeetCode/tree/master/0067-add-binary) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/isimbiange/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Trie
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/isimbiange/LeetCode/tree/master/0078-subsets) |
+## Queue
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/isimbiange/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
