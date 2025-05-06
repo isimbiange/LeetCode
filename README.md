@@ -124,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-reveal-cards-in-increasing-order](https://github.com/isimbiange/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+## Graph
+|  |
+| ------- |
+| [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/isimbiange/LeetCode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/isimbiange/LeetCode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
+## Shortest Path
+|  |
+| ------- |
+| [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/isimbiange/LeetCode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
 <!---LeetCode Topics End-->
