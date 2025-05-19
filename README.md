@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/isimbiange/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/isimbiange/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/isimbiange/LeetCode/tree/master/0067-add-binary) |
+| [2998-count-symmetric-integers](https://github.com/isimbiange/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2230-minimum-cost-to-reach-city-with-discounts](https://github.com/isimbiange/LeetCode/tree/master/2230-minimum-cost-to-reach-city-with-discounts) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/isimbiange/LeetCode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
