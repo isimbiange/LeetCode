@@ -147,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/isimbiange/LeetCode/tree/master/2998-count-symmetric-integers) |
+## Database
+|  |
+| ------- |
+| [2041-the-latest-login-in-2020](https://github.com/isimbiange/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
