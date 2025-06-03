@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/isimbiange/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/isimbiange/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/isimbiange/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/isimbiange/LeetCode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/isimbiange/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/isimbiange/LeetCode/tree/master/0344-reverse-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/isimbiange/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/isimbiange/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/isimbiange/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/isimbiange/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/isimbiange/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/isimbiange/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/isimbiange/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/isimbiange/LeetCode/tree/master/0200-number-of-islands) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/isimbiange/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/isimbiange/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/isimbiange/LeetCode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/isimbiange/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/isimbiange/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/isimbiange/LeetCode/tree/master/0200-number-of-islands) |
 ## Binary Search
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/isimbiange/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/isimbiange/LeetCode/tree/master/0079-word-search) |
 ## Queue
 |  |
 | ------- |
