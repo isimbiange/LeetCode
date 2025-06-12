@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/isimbiange/LeetCode/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/isimbiange/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/isimbiange/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/isimbiange/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/isimbiange/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/isimbiange/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Array
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/isimbiange/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/isimbiange/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/isimbiange/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/isimbiange/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/isimbiange/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/isimbiange/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Two Pointers
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/isimbiange/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/isimbiange/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Sliding Window
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/isimbiange/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/isimbiange/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Graph
 |  |
