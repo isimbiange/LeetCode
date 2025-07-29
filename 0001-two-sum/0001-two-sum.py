@@ -1,15 +1,15 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        num_dict = {}
+        num_dict = {} # dictionary that stores all the numbers
 
-        for i, num in enumerate(nums):
-            complement = target - num
+        for i, num in enumerate(nums): #loop through the list of numbers
+            complement = target - num #linear subtract target from the all the numbers if to find compement
 
-            if complement in num_dict:
-                return [num_dict[complement], i]
+            if complement in num_dict: # is the complement exist in the list
+                return [num_dict[complement], i] #return the imdex of the number in the list
 
             num_dict[num] = i
-        return none
+        return none #if the complement not in the list return none
 
             
 
