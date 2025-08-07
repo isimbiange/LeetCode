@@ -1,11 +1,12 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        import collections
-        counter = collections.Counter(list(s))
-        for i in range (len(s)):
-            if counter. get(s[i]) == 1:
-                return i
+        count = Counter(s)
+        for index, char in enumerate(s):
+            if count[char] == 1:
+                return index
+
         return -1
+
         
         
         
