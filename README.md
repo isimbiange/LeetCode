@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/isimbiange/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/isimbiange/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/isimbiange/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/isimbiange/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/isimbiange/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/isimbiange/LeetCode/tree/master/0079-word-search) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/isimbiange/LeetCode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/isimbiange/LeetCode/tree/master/0792-binary-search) |
 | [1083-two-sum-less-than-k](https://github.com/isimbiange/LeetCode/tree/master/1083-two-sum-less-than-k) |
 ## Backtracking
