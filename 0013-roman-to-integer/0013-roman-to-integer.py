@@ -1,25 +1,14 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
-        # Define the values dictionary
-        values = {
-            'I': 1,
-            'V': 5,
-            'X': 10,
-            'L': 50,
-            'C': 100,
-            'D': 500,
-            'M': 1000
-        }
-        
-        total = 0
-        i = 0
-        while i < len(s):
-            # If this is the subtractive case.
-            if i + 1 < len(s) and values[s[i]] < values[s[i + 1]]:
-                total += values[s[i + 1]] - values[s[i]]
-                i += 2
-            # Else this is NOT the subtractive case.
+        roman = {"I":1, "V":5, "X":10, "L":50, "C":100, "D":500, "M":1000} # hash map that stores keys and values
+        res = 0 #count result
+
+        for i in range (len(s)):
+            if i +1 < len(s) and roman [s[i]] < roman[s[i+1]]: #if i is inside the string and it is gre than the next roman
+                res -= roman[s[i]] #subtract i to its next number
+
             else:
-                total += values[s[i]]
-                i += 1
-        return total
+                res += roman[s[i]] # if i is greater than the next number add them
+
+        return res # return the result
+        
