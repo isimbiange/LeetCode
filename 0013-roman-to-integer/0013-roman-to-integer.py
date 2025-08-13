@@ -12,3 +12,6 @@ class Solution:
 
         return res # return the result
         
+
+        #smallest to largest == add
+        #largest to smallest == subtract 
