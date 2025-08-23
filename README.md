@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/isimbiange/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/isimbiange/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/isimbiange/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/isimbiange/LeetCode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/isimbiange/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/isimbiange/LeetCode/tree/master/0200-number-of-islands) |
 | [0792-binary-search](https://github.com/isimbiange/LeetCode/tree/master/0792-binary-search) |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2041-the-latest-login-in-2020](https://github.com/isimbiange/LeetCode/tree/master/2041-the-latest-login-in-2020) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/isimbiange/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
