@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/isimbiange/LeetCode/tree/master/0792-binary-search) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/isimbiange/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1083-two-sum-less-than-k](https://github.com/isimbiange/LeetCode/tree/master/1083-two-sum-less-than-k) |
+| [1306-minimum-absolute-difference](https://github.com/isimbiange/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [3221-find-the-peaks](https://github.com/isimbiange/LeetCode/tree/master/3221-find-the-peaks) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/isimbiange/LeetCode/tree/master/0242-valid-anagram) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/isimbiange/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1083-two-sum-less-than-k](https://github.com/isimbiange/LeetCode/tree/master/1083-two-sum-less-than-k) |
+| [1306-minimum-absolute-difference](https://github.com/isimbiange/LeetCode/tree/master/1306-minimum-absolute-difference) |
 ## Linked List
 |  |
 | ------- |
