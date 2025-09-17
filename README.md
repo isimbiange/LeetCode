@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/isimbiange/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/isimbiange/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/isimbiange/LeetCode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/isimbiange/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/isimbiange/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/isimbiange/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/isimbiange/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/isimbiange/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/isimbiange/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/isimbiange/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/isimbiange/LeetCode/tree/master/0344-reverse-string) |
 | [1083-two-sum-less-than-k](https://github.com/isimbiange/LeetCode/tree/master/1083-two-sum-less-than-k) |
 | [1168-duplicate-zeros](https://github.com/isimbiange/LeetCode/tree/master/1168-duplicate-zeros) |
