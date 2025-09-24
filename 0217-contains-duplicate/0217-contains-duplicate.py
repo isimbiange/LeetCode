@@ -1,6 +1,6 @@
 class Solution(object):
     def containsDuplicate(self, nums):
-        h = set()
+        h = set() #hash maps only stores strings and does not allow duplicates
 
         for num in nums:
             if num in h:
