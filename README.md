@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/isimbiange/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/isimbiange/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/isimbiange/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/isimbiange/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0792-binary-search](https://github.com/isimbiange/LeetCode/tree/master/0792-binary-search) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/isimbiange/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1083-two-sum-less-than-k](https://github.com/isimbiange/LeetCode/tree/master/1083-two-sum-less-than-k) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/isimbiange/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/isimbiange/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/isimbiange/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/isimbiange/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/isimbiange/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/isimbiange/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/isimbiange/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/isimbiange/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/isimbiange/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/isimbiange/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
 |  |
