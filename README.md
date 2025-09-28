@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/isimbiange/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/isimbiange/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/isimbiange/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/isimbiange/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/isimbiange/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/isimbiange/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/isimbiange/LeetCode/tree/master/0079-word-search) |
@@ -184,5 +185,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/isimbiange/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/isimbiange/LeetCode/tree/master/0118-pascals-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/isimbiange/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
