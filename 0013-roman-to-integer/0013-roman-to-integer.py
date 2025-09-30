@@ -1,17 +1,18 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
-        roman = {"I":1, "V":5, "X":10, "L":50, "C":100, "D":500, "M":1000} # hash map that stores keys and values
-        res = 0 #count result
+        d = {"I":1, "V":5, "X":10, "L":50, "C":100, "D":500, "M":1000} # hash map that stores keys and values
+        sum = 0
+        n = len(s)
+        i = 0
 
-        for i in range (len(s)):
-            if i +1 < len(s) and roman [s[i]] < roman[s[i+1]]: #if i is inside the string and it is gre than the next roman
-                res -= roman[s[i]] #subtract i to its next number
+        while i < n:
+            if i < n-1 and d[s[i]] < d[s[i+1]]:
+                sum += d[s[i+1]]- d[s[i]]
+                i += 2
 
             else:
-                res += roman[s[i]] # if i is greater than the next number add them
+                sum += d[s[i]]
+                i += 1
 
-        return res # return the result
+        return sum
         
-
-        #smallest to largest == add
-        #largest to smallest == subtract 
