@@ -8,4 +8,8 @@ class Solution(object):
             else:
                 h.add(num)
         return False
+
+
+        #o(n) time complexity 
+        #o(n) space complexity
         
