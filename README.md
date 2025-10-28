@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/isimbiange/LeetCode/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/isimbiange/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/isimbiange/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/isimbiange/LeetCode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
@@ -201,4 +202,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/isimbiange/LeetCode/tree/master/0011-container-with-most-water) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/isimbiange/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/isimbiange/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/isimbiange/LeetCode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
