@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/isimbiange/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/isimbiange/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/isimbiange/LeetCode/tree/master/0130-surrounded-regions) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/isimbiange/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/isimbiange/LeetCode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/isimbiange/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/isimbiange/LeetCode/tree/master/0217-contains-duplicate) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/isimbiange/LeetCode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/isimbiange/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/isimbiange/LeetCode/tree/master/0162-find-peak-element) |
 | [0792-binary-search](https://github.com/isimbiange/LeetCode/tree/master/0792-binary-search) |
 | [1083-two-sum-less-than-k](https://github.com/isimbiange/LeetCode/tree/master/1083-two-sum-less-than-k) |
