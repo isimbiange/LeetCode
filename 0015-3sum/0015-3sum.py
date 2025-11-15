@@ -1,23 +1,32 @@
-from collections import defaultdict
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        neg = defaultdict(int);pos = defaultdict(int);zeros = 0 
-        for x in nums:
-            if x < 0:neg[x] += 1
-            elif x > 0:pos[x] += 1
-            else:zeros += 1    
-        r = []       
-        if zeros:
-            for n in neg:
-                if -n in pos:r.append((0, n, -n))
-            if zeros > 2:
-                r.append((0,0,0))
-        for set_a, set_b in ((neg, pos), (pos, neg)):
-            set_a_items = list(set_a.items())
-            for i, (x, q) in enumerate(set_a_items):
-                for x2, q2 in set_a_items[i:]:
-                    if x != x2 or (x == x2 and q > 1):
-                        if -x-x2 in set_b:
-                            r.append((x, x2, -x-x2))
+        res = []
+        nums.sort()
+        
 
-        return r
+        for i, a in enumerate (nums): #use each number in the array as a possible first input value
+            if i > 0 and a == nums[i-1]: # make sure we do not reuse any number twice
+                continue
+
+            l,r = i+1, len(nums)-1
+            while l < r:
+                threeSum = a + nums[l] + nums[r]
+                if threeSum > 0:
+                    r -= 1
+                elif threeSum < 0:
+                    l += 1
+                else:
+                    res.append([a, nums[l], nums[r]])
+                    l += 1
+                    while nums[l] == nums[l-1] and l < r:
+                        l += 1
+
+        return res
+
+                
+
+
+
+
+
+        
