@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/isimbiange/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/isimbiange/LeetCode/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/isimbiange/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/isimbiange/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/isimbiange/LeetCode/tree/master/0338-counting-bits) |
 ## Simulation
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/isimbiange/LeetCode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/isimbiange/LeetCode/tree/master/0190-reverse-bits) |
 ## Greedy
 |  |
 | ------- |
